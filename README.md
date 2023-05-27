@@ -18,9 +18,9 @@ samples, guidance on mobile development, and a full API reference.
 
 U and I application:
   
-  ThemeData
-  Pubspec Fonts
-  DateTime
-  CupertinoDatePicker
-  VoidCallback function
+  ThemeData,
+  Pubspec Fonts,
+  DateTime,
+  CupertinoDatePicker,
+  VoidCallback function,
   Clean code including moving functions up to the parent widget
